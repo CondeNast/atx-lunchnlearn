@@ -1,5 +1,5 @@
-Austin Lunch n Learn
-====================
+Austin Lunch 'n' Learn
+======================
 Repo for tracking things we talk about at the Lunch 'n' Learn.
 
 Every Wednesday at Noon (ATX-time) we gather in the big conference room for
