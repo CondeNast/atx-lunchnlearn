@@ -8,7 +8,7 @@ lunch and a presentation.
 Talk Topics
 -----------
 Talks are submitted via [issues][]. They can be presentation videos you've
-seen online or something you want to present on. We'll decide day of what we
+seen online, something you want to present on, or something that you'd like to learn more about. We'll decide day of what we
 want to cover from the backlog.
 
 ### Interval vs External Talks
